@@ -9,4 +9,4 @@ This project will consolidate the fundamental concepts learned throughout the co
 
 The Recipe Manager will allow users to add, view, search, edit, and delete recipes, demonstrating practical application of Python programming skills.
 
-This project was enjoyable, challenging but rewarding seeing the final result. 
+The recipe manager project was enjoyable, challenging but rewarding seeing the final product working successfully. 
